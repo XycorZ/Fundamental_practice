@@ -2,10 +2,10 @@ Order of things top to bottom of my practice of the C fundamentals.
 
 sum.c
 
-voting.c
-switch.c
-bomba.c
-multiple_Input.c
+voting.c 
+switch.c 
+bomba.c 
+multiple_Input.c 
 grade_input.c
 pointers.c
 simple_function.c
